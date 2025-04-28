@@ -1,1 +1,1 @@
-select * from empl;
+select * from empl where temp =1 ;
